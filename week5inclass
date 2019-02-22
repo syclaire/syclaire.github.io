@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>D3: Test of formatted axis values</title>
+		<script type="text/javascript" src="../d3.js"></script>
+		<style type="text/css">
+			/* No style rules here yet */
+		</style>
+	</head>
+	<body>
+		<div id="commuting"></div>
+		<script type="text/javascript">
+			//TODO
+			//load data from class survy
+			//do commute time as scatter plot with just x - one dimensional
+			//linear scale
+			//do commute as histogram
+			//scale again
+			//flip bar chart
+			
+			
+			
+			d3.csv("inClassSurveyData.csv",function(data){
+								
+				drawCommute(data)
+				
+			})
+			
+			function drawCommute(data){
+				//console.log(data)
+				
+				var w = 600
+				var h = 600
+				
+				var svg = d3.select("#commuting")
+					.append("svg")
+					.attr("width",w)
+					.attr("height",h)
+				
+				var xScale = d3.scaleLinear()
+				.domain([0,90])
+				.range([0, w])
+				
+				var cScale = d3.scaleLinear()
+				.domain([0,45,90])
+				.range(["red","black","green"])
+				
+				
+				
+				svg.selectAll("circle")
+					.data(data)
+					.enter()
+					.append("circle")
+					.attr("cx",function(d,i){
+						//console.log("this is number"+ i)
+						//console.log(d.commute)
+						return xScale(d.commute)		//*8 helps spread
+					})   									//
+					.attr("cy",20)
+					.attr("r",10)
+					.style("fill",function(d){
+						return cScale(d.commute)
+					})
+					.style("opacity",.3)
+			}
+
+		</script>
+	</body>
+</html>

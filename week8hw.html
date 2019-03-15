@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>svg tooltip</title><!-- make your own with https://www.favicon.cc/-->
+        <link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
+		<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+		<style type="text/css">
+            body{font-family:geneva;}
+            #button1{border:2px solid #000; border-radius:5px;padding:5px;width:100px;}
+            #chart1{padding:10px;}
+			
+			#tooltip {
+				position: absolute;
+				width: 100px;
+				height: auto;
+				padding: 10px;
+				background-color: rgba(176,224,230);
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				border-radius: 10px;
+				-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				pointer-events: none;
+			}
+			
+			#tooltip.hidden {
+				display: none;
+			}
+			
+			#tooltip p {
+				margin: 0;
+				font-family: geneva;
+				font-size: 13px;
+				line-height: 17px;
+			}
+			
+			#moreInfo {
+			   	font-family: geneva;
+			  	font-size: 12px;
+			}
+			
+		</style>
+	</head>
+    <div id="button1">SORT</div>
+    <div id="chart1"></div>
+    <div id="moreInfo"></div>
+	<body>
+		<div id="tooltip" class="hidden">
+			<p><strong>In Class Data</strong></p>
+			<p><span id="value"></span>%</p>
+		</div>
+		
+		<script type="text/javascript"> 
+		
+       
+            d3.csv("inClassSurveyData (2).csv")
+            .then(function(data){
+                drawChart(data)                
+            })
+            .catch(function(error){ console.log("error")})
+            
+            function drawChart(data){	 
+                var w = 700
+                var h = 300
+                var yScale = d3.scaleLinear().domain([0,90]).range([0,h])
+                var xScale = d3.scaleBand().domain(d3.range(data.length)).range([0,w]).round(true).paddingInner(.1)
+                var cScale = d3.scaleLinear().domain([0,90]).range(["#aaa","#000"])
+                var svg = d3.select("#chart1")
+                            .append("svg")
+                            .attr("width",w)
+                            .attr("height",h)
+                svg.selectAll("rect")
+                    .data(data)
+                    .enter()
+                    .append("rect")
+                    .attr("x",function(d,i){
+                        return xScale(i)
+                    })
+                    .attr("y",function(d){
+                        return h-yScale(d.commute)
+                    })
+                    .attr("width",xScale.bandwidth())
+                    .attr("height",function(d){
+                        return yScale(d.commute)
+                    })
+                    .attr("fill",function(d){
+                        return cScale(d.commute)
+                    })
+                    .attr("opacity",.5)
+                    //START NEW CODE HERE
+                    .on("mouseover",function(d){
+                      
+                        var tx = parseFloat(d3.select(this).attr("x"))/*tx for tooltip's x, 
+                        we also make sure it is a number by calling parseFloat on the whole thing*/
+                        var ty = parseFloat(d3.select(this).attr("y"))//ty for tooltip's y
+                        
+                      
+ 					
+						
+					d3.select("#tooltip")
+						.style("left", tx + "px")
+						.style("top", ty + "px")						
+						.select("#value")
+						.text(d.commute);
+			   
+					//Show the tooltip
+					d3.select("#tooltip").classed("hidden", false);
+			            
+                })
+					
+	
+			   
+	 			   .on("mouseout", function() {
+			   
+	 					//Hide the tooltip
+	 					d3.select("#tooltip").classed("hidden", true);
+					
+	 			   })
+	 			   .on("click", function() {
+	 			   		sortBars();
+	 			   });
+				   
+				   			
+	 			  
+                 
+                    //END NEW CODE HERE
+                    
+                    var ascending = true
+                    
+                  var button = d3.select("#button1")
+                            .on("click",function(){  
+                                sortBars()
+                                
+                                if(ascending == true){
+                                    ascending = false
+                                    d3.select("#button1").html("click to sort ascending")
+                                }else{
+                                    ascending = true
+                                    d3.select("#button1").html("click to sort descending")
+                                }
+                            })      
+                
+                    function sortBars(){
+                      d3.selectAll("rect")
+                        .sort(function(a,b){
+                            if(ascending == true){
+                                return d3.descending(parseInt(a.commute),parseInt(b.commute))
+                            }else{
+                                return d3.ascending(parseInt(a.commute),parseInt(b.commute))
+                            }
+                        })
+                        .transition()
+                        .duration(1000)
+                        .delay(function(d,i){
+                            return i*100
+                        })
+                        .attr("x",function(d,i){
+                            return xScale(i)
+                        })
+                    }
+            
+            }
+           
+        </script>
+	</body>
+</html>

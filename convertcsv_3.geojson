@@ -1,0 +1,2189 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.71,33.9391 ]
+    },
+    "properties": {
+    "description":"Afghanistan - Second Education Quality Improvement Program",
+    "country":"Afghanistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.71,33.9391 ]
+    },
+    "properties": {
+    "description":"Education Quality Improvement Program",
+    "country":"Afghanistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.1683,41.1533 ]
+    },
+    "properties": {
+    "description":"Education Excellence and Equity Project",
+    "country":"Albania",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0382,40.0691 ]
+    },
+    "properties": {
+    "description":"Education Quality & Relevance Project (APL #1)",
+    "country":"Armenia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5769,40.1431 ]
+    },
+    "properties": {
+    "description":"Second Education Sector Development Project",
+    "country":"Azerbaijan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5769,40.1431 ]
+    },
+    "properties": {
+    "description":"Education Sector Development Project",
+    "country":"Azerbaijan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5769,40.1431 ]
+    },
+    "properties": {
+    "description":"Education Reform Project",
+    "country":"Azerbaijan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "description":"Bangladesh - Secondary Education Quality and Access Improvement",
+    "country":"Bangladesh",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "description":"Third Programmatic Education Sector Development Support Credit",
+    "country":"Bangladesh",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "description":"Education Sector Development Support Credit II",
+    "country":"Bangladesh",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "description":"Education Sector Development Support Credit",
+    "country":"Bangladesh",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "description":"Female Secondary School Assistance Project-II",
+    "country":"Bangladesh",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.4336,27.5142 ]
+    },
+    "properties": {
+    "description":"Additional Financing to Bhutan EDP",
+    "country":"Bhutan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.4336,27.5142 ]
+    },
+    "properties": {
+    "description":"Bhutan - Education Development Project",
+    "country":"Bhutan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6791,43.9159 ]
+    },
+    "properties": {
+    "description":"Education Restructuring Project",
+    "country":"Bosnia and Herzegovina",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6791,43.9159 ]
+    },
+    "properties": {
+    "description":"Education Development Project",
+    "country":"Bosnia and Herzegovina",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.4858,42.7339 ]
+    },
+    "properties": {
+    "description":"Education Modernization Project",
+    "country":"Bulgaria",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.991,12.5657 ]
+    },
+    "properties": {
+    "description":"Basic Education Project",
+    "country":"Cambodia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124,28.3949 ]
+    },
+    "properties": {
+    "description":"Nepal: School Sector Reform Program",
+    "country":"Nepal",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7322,15.4542 ]
+    },
+    "properties": {
+    "description":"Education Sector Reform Project",
+    "country":"Chad",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "description":"Education Sector Development Program Project",
+    "country":"Croatia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5903,11.8251 ]
+    },
+    "properties": {
+    "description":"Strengthening Institutional Capacity and Management of the Education System",
+    "country":"Djibouti",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5903,11.8251 ]
+    },
+    "properties": {
+    "description":"Second School Access and Improvement",
+    "country":"Djibouti",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.8025,26.8206 ]
+    },
+    "properties": {
+    "description":"Secondary Education Enhancement Project",
+    "country":"Egypt, Arab Republic of",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7823,15.1794 ]
+    },
+    "properties": {
+    "description":"Eritrea Education Sector Investment Project",
+    "country":"Eritrea",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.4897,9.145 ]
+    },
+    "properties": {
+    "description":"EFA FTI CF Grant 2 - GEQIP APL 1",
+    "country":"Ethiopia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.4897,9.145 ]
+    },
+    "properties": {
+    "description":"General Education Quality Improvement Project - APL 1 (GEQIP)",
+    "country":"Ethiopia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.9629,20.5937 ]
+    },
+    "properties": {
+    "description":"India: Secondary Education Project",
+    "country":"India",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6793,33.2232 ]
+    },
+    "properties": {
+    "description":"Institutional Strengthening and Capacity Building for the Education Sector",
+    "country":"Iraq",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6793,33.2232 ]
+    },
+    "properties": {
+    "description":"Iraq Third Emergency Education Project",
+    "country":"Iraq",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6793,33.2232 ]
+    },
+    "properties": {
+    "description":"Emergency School Construction and Rehabilitation Project",
+    "country":"Iraq",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6793,33.2232 ]
+    },
+    "properties": {
+    "description":"Iraq Emergency Textbook Provision Project",
+    "country":"Iraq",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2384,30.5852 ]
+    },
+    "properties": {
+    "description":"Second Education Reform for the Knowledge Economy",
+    "country":"Jordan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2384,30.5852 ]
+    },
+    "properties": {
+    "description":"Education Reform for Knowledge Economy I Program",
+    "country":"Jordan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.166191,42.667542 ]
+    },
+    "properties": {
+    "description":"Institutional Development for Education Project",
+    "country":"Kosovo",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.166191,42.667542 ]
+    },
+    "properties": {
+    "description":"Education Participation Improvement Project",
+    "country":"Kosovo",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.7661,41.2044 ]
+    },
+    "properties": {
+    "description":"Kyrgyz - Russia Education Aid for Development",
+    "country":"Kyrgyz Republic",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.7661,41.2044 ]
+    },
+    "properties": {
+    "description":"Rural Education Project",
+    "country":"Kyrgyz Republic",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.6032,56.8796 ]
+    },
+    "properties": {
+    "description":"Education Improvement Project",
+    "country":"Latvia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8623,33.8547 ]
+    },
+    "properties": {
+    "description":"Second Education Development Project",
+    "country":"Lebanon",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.2207,3.2028 ]
+    },
+    "properties": {
+    "description":"Maldives - Integrated Human Development Project",
+    "country":"Maldives",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.2207,3.2028 ]
+    },
+    "properties": {
+    "description":"Third Education and Training Project",
+    "country":"Maldives",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.3699,47.4116 ]
+    },
+    "properties": {
+    "description":"Quality Education in the Rural Areas of Moldova AF",
+    "country":"Moldova",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.3699,47.4116 ]
+    },
+    "properties": {
+    "description":"Quality Education in the Rural Areas of Moldova",
+    "country":"Moldova",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.3744,42.7087 ]
+    },
+    "properties": {
+    "description":"Education Reform Project (Montenegro)",
+    "country":"Montenegro",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124,28.3949 ]
+    },
+    "properties": {
+    "description":"Second Higher Education Project",
+    "country":"Nepal",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6753,9.082 ]
+    },
+    "properties": {
+    "description":"Nigeria Edo State First Development Policy Operation",
+    "country":"Nigeria",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6753,9.082 ]
+    },
+    "properties": {
+    "description":"Lagos Eko Secondary Education Project",
+    "country":"Nigeria",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6753,9.082 ]
+    },
+    "properties": {
+    "description":"Nigeria Federal Science & Technical Education at Post-Basic Levels (STEPB)",
+    "country":"Nigeria",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6753,9.082 ]
+    },
+    "properties": {
+    "description":"Nigeria State Education Sector Project",
+    "country":"Nigeria",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6753,9.082 ]
+    },
+    "properties": {
+    "description":"Universal Basic Education Project",
+    "country":"Nigeria",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7453,41.6086 ]
+    },
+    "properties": {
+    "description":"Conditional Cash Transfers Project",
+    "country":"North Macedonia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7453,41.6086 ]
+    },
+    "properties": {
+    "description":"Education Modernization Project",
+    "country":"North Macedonia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.3451,30.3753 ]
+    },
+    "properties": {
+    "description":"Pakistan - Punjab Education Sector Project - AF",
+    "country":"Pakistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.3451,30.3753 ]
+    },
+    "properties": {
+    "description":"Pakistan: Sindh Education Ssector Project (SEP)",
+    "country":"Pakistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.3451,30.3753 ]
+    },
+    "properties": {
+    "description":"Pakistan: Punjab Education Sector Project",
+    "country":"Pakistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774,12.8797 ]
+    },
+    "properties": {
+    "description":"Social Welfare and Development Reform Project Additional Financing",
+    "country":"Philippines",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774,12.8797 ]
+    },
+    "properties": {
+    "description":"National Program Support for Basic Education",
+    "country":"Philippines",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.9668,45.9432 ]
+    },
+    "properties": {
+    "description":"Rural Education Project",
+    "country":"Romania",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.3188,61.524 ]
+    },
+    "properties": {
+    "description":"e-Learning Support Project (APL #1)",
+    "country":"Russian Federation",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.0059,44.0165 ]
+    },
+    "properties": {
+    "description":"Education Improvement Project (Serbia)",
+    "country":"Serbia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.7718,7.8731 ]
+    },
+    "properties": {
+    "description":"Sri Lanka - Transforming the School Education System as the Foundation of a Knowledge Hub",
+    "country":"Sri Lanka",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.7718,7.8731 ]
+    },
+    "properties": {
+    "description":"Sri Lanka - Education Sector Development Project - AF",
+    "country":"Sri Lanka",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.7718,7.8731 ]
+    },
+    "properties": {
+    "description":"Sri Lanka Education Sector Development Project",
+    "country":"Sri Lanka",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.2761,38.861 ]
+    },
+    "properties": {
+    "description":"Russia Education Aid for Development (READ)",
+    "country":"Tajikistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.2761,38.861 ]
+    },
+    "properties": {
+    "description":"Education for All, Fast Track Initiative Catalytic Fund for Tajikistan",
+    "country":"Tajikistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.2761,38.861 ]
+    },
+    "properties": {
+    "description":"Education Modernization Project",
+    "country":"Tajikistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.2761,38.861 ]
+    },
+    "properties": {
+    "description":"Education Reform Project",
+    "country":"Tajikistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.9925,15.87 ]
+    },
+    "properties": {
+    "description":"TH - Education Reform",
+    "country":"Thailand",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5375,33.8869 ]
+    },
+    "properties": {
+    "description":"Education Quality Improvement Program (EQIP) Phase 2",
+    "country":"Tunisia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2433,38.9637 ]
+    },
+    "properties": {
+    "description":"Secondary Education Project",
+    "country":"Turkey",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2433,38.9637 ]
+    },
+    "properties": {
+    "description":"Basic Ed 3 (APL #3) (Dropped)",
+    "country":"Turkey",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2433,38.9637 ]
+    },
+    "properties": {
+    "description":"Basic Education 2 Project (APL #2)",
+    "country":"Turkey",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.2903,1.3733 ]
+    },
+    "properties": {
+    "description":"Post Primary Education and Training Program",
+    "country":"Uganda",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.1656,48.3794 ]
+    },
+    "properties": {
+    "description":"Development Policy Loan 2 (DPL 2)",
+    "country":"Ukraine",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.1656,48.3794 ]
+    },
+    "properties": {
+    "description":"Equal Access to Quality Education in Ukraine Project",
+    "country":"Ukraine",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.5853,41.3775 ]
+    },
+    "properties": {
+    "description":"Second Basic Education",
+    "country":"Uzbekistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.5853,41.3775 ]
+    },
+    "properties": {
+    "description":"BASIC EDUCATION, Phase I",
+    "country":"Uzbekistan",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.2772,14.0583 ]
+    },
+    "properties": {
+    "description":"GPOBA: Vietnam Education Project",
+    "country":"Vietnam",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.5164,15.5527 ]
+    },
+    "properties": {
+    "description":"Secondary Education Development and Girls Access Program",
+    "country":"Yemen, Republic of",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5296,-18.6657 ]
+    },
+    "properties": {
+    "description":"MZ-Education Sector Support Program",
+    "country":"Mozambique",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.9189,-3.3731 ]
+    },
+    "properties": {
+    "description":"Education Sector Reconstruction Project",
+    "country":"Burundi",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7587,-4.0383 ]
+    },
+    "properties": {
+    "description":"DRC Emergency Urban and Social Rehabilitation Project Additional Financing",
+    "country":"Congo, Democratic Republic of",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7587,-4.0383 ]
+    },
+    "properties": {
+    "description":"DRC Emergency Project to Mitigate Impact of Financial Crisis",
+    "country":"Congo, Democratic Republic of",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7587,-4.0383 ]
+    },
+    "properties": {
+    "description":"Republic of Congo Support to Basic Education Project",
+    "country":"Congo, Republic of",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9213,-0.7893 ]
+    },
+    "properties": {
+    "description":"Indonesia - Add'l Financing BOS Knowledge Improvement for Transparency and Accountability",
+    "country":"Indonesia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9213,-0.7893 ]
+    },
+    "properties": {
+    "description":"BOS Knowledge Improvement for Transparency and Accountability",
+    "country":"Indonesia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9213,-0.7893 ]
+    },
+    "properties": {
+    "description":"JSDF-INDONESIA: EDUCATION FOR VERY POOR CHILDREN",
+    "country":"Indonesia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9213,-0.7893 ]
+    },
+    "properties": {
+    "description":"Sumatra Basic Education Project",
+    "country":"Indonesia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9213,-0.7893 ]
+    },
+    "properties": {
+    "description":"Sulawesi and Eastern Islands Basic Education Project",
+    "country":"Indonesia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9062,-0.0236 ]
+    },
+    "properties": {
+    "description":"Education Sector Support Program",
+    "country":"Kenya",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2336,-29.61 ]
+    },
+    "properties": {
+    "description":"LS -2ND POVERTY REDUCTION SUPPORT CREDIT",
+    "country":"Lesotho",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2336,-29.61 ]
+    },
+    "properties": {
+    "description":"Poverty Reduction Support Credit",
+    "country":"Lesotho",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2336,-29.61 ]
+    },
+    "properties": {
+    "description":"Second Education Sector Development Project (Phase 2)",
+    "country":"Lesotho",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2336,-29.61 ]
+    },
+    "properties": {
+    "description":"Second Education Sector Development",
+    "country":"Lesotho",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3015,-13.2543 ]
+    },
+    "properties": {
+    "description":"Project to Improve Education Quality in Malawi",
+    "country":"Malawi",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3015,-13.2543 ]
+    },
+    "properties": {
+    "description":"Education Sector Support Project 1",
+    "country":"Malawi",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.5522,-20.3484 ]
+    },
+    "properties": {
+    "description":"Mauritius First Public Sector Performance Development Policy Loan",
+    "country":"Mauritius",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5296,-18.6657 ]
+    },
+    "properties": {
+    "description":"Mozambique Education Sector Support Program Fast Track Initiative Catalytic Fund",
+    "country":"Mozambique",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4904,-22.9576 ]
+    },
+    "properties": {
+    "description":"Support of ETSIP 1 DPL 2",
+    "country":"Namibia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4904,-22.9576 ]
+    },
+    "properties": {
+    "description":"Education and Training Sector Improvement Program - ETSIP",
+    "country":"Namibia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.9555,-6.315 ]
+    },
+    "properties": {
+    "description":"Flexible and Open Distance Education Project",
+    "country":"Papua New Guinea",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.8739,-1.9403 ]
+    },
+    "properties": {
+    "description":"Promoting Economic Empowerment of Adolescent Girls and Young Women",
+    "country":"Rwanda",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.8739,-1.9403 ]
+    },
+    "properties": {
+    "description":"Education For All - Fast Track Initiative Catalytic Fund Bridge Grant",
+    "country":"Rwanda",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.8739,-1.9403 ]
+    },
+    "properties": {
+    "description":"Human Resources Development Project",
+    "country":"Rwanda",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7516,-6.163 ]
+    },
+    "properties": {
+    "description":"Secondary Educ. Development Program II",
+    "country":"Tanzania",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.3621,-6.136 ]
+    },
+    "properties": {
+    "description":"Zanzibar Basic Education Improvement Project",
+    "country":"Tanzania",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8888,-6.369 ]
+    },
+    "properties": {
+    "description":"TZ Education Program for Results (EPforR)",
+    "country":"Tanzania",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.7275,-8.8742 ]
+    },
+    "properties": {
+    "description":"Education Sector Support",
+    "country":"Timor-Leste",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.7275,-8.8742 ]
+    },
+    "properties": {
+    "description":"Fundamental School Quality Project",
+    "country":"Timor-Leste",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.7275,-8.8742 ]
+    },
+    "properties": {
+    "description":"Emergency School Readiness Project",
+    "country":"Timor-Leste",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.9592,-15.3767 ]
+    },
+    "properties": {
+    "description":"Education Project (02)",
+    "country":"Vanuatu",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.1549,-19.0154 ]
+    },
+    "properties": {
+    "description":"Zimbabwe: Strengthening the Education Management Information System",
+    "country":"Zimbabwe",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5616,12.2383 ]
+    },
+    "properties": {
+    "description":"Fast Track Initiative Grant III for Basic Education",
+    "country":"Burkina Faso",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5616,12.2383 ]
+    },
+    "properties": {
+    "description":"Fast Track Initiative Grant II for Basic Education",
+    "country":"Burkina Faso",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5616,12.2383 ]
+    },
+    "properties": {
+    "description":"Fast Track Initiative Grant for Basic Education",
+    "country":"Burkina Faso",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5616,12.2383 ]
+    },
+    "properties": {
+    "description":"Basic Education Sector Project - Additional Financing",
+    "country":"Burkina Faso",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5616,12.2383 ]
+    },
+    "properties": {
+    "description":"Post-Primary Education",
+    "country":"Burkina Faso",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "description":"Support for the Second Phase of the Expansion of the Program of Conditional Transfers-Familias en Acci&#243;n Project",
+    "country":"Colombia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "description":"Colombia Rural Education Project (APL Phase II)",
+    "country":"Colombia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "description":"Antioquia Upper Secondary Education",
+    "country":"Colombia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "description":"CO: Programmatic Labor Reform and Social Structural Adjustment Loan",
+    "country":"Colombia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "description":"CUNDINAMARCA EDUCATION QUALITY IMPROVEMENT",
+    "country":"Colombia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7534,9.7489 ]
+    },
+    "properties": {
+    "description":"Public Finance and Competitiveness Development Policy Loan with Deferred Drawdown Option",
+    "country":"Costa Rica",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7534,9.7489 ]
+    },
+    "properties": {
+    "description":"CR Equity and Efficiency of Education",
+    "country":"Costa Rica",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.5471,7.54 ]
+    },
+    "properties": {
+    "description":"COTE D'IVOIRE - Emergency Basic Education Support Project - GPEF Grant",
+    "country":"Cote d'Ivoire",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8965,13.7942 ]
+    },
+    "properties": {
+    "description":"Education Quality Improvement Project",
+    "country":"El Salvador",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8965,13.7942 ]
+    },
+    "properties": {
+    "description":"El Salvador Public Finance and Social Sector DPL",
+    "country":"El Salvador",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8965,13.7942 ]
+    },
+    "properties": {
+    "description":"Excellence and Innovation in Secondary Education (EXITO)",
+    "country":"El Salvador",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.3101,13.4432 ]
+    },
+    "properties": {
+    "description":"GM-Budget Support -DPL (First in the series)",
+    "country":"Gambia, The",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.3101,13.4432 ]
+    },
+    "properties": {
+    "description":"Third Education Project - Additional Financing",
+    "country":"Gambia, The",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.3101,13.4432 ]
+    },
+    "properties": {
+    "description":"The Gambia EFA-FTI Catalytic Fund 2009-2011",
+    "country":"Gambia, The",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.3101,13.4432 ]
+    },
+    "properties": {
+    "description":"Third Education Project - Phase II",
+    "country":"Gambia, The",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3569,42.3154 ]
+    },
+    "properties": {
+    "description":"Education System Realignment & Strengthening Program (APL #2)",
+    "country":"Georgia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3569,42.3154 ]
+    },
+    "properties": {
+    "description":"Education System Realignment & Strengthening Program (APL #1)",
+    "country":"Georgia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0232,7.9465 ]
+    },
+    "properties": {
+    "description":"Ghana Education For All Fast Track Initiative",
+    "country":"Ghana",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.679,12.1165 ]
+    },
+    "properties": {
+    "description":"GD -(AF) Education Dev -2nd APL",
+    "country":"Grenada",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.679,12.1165 ]
+    },
+    "properties": {
+    "description":"Grenada Hurricane Ivan Emergency Project",
+    "country":"Grenada",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.679,12.1165 ]
+    },
+    "properties": {
+    "description":"Grenada: OECS Education Development Project",
+    "country":"Grenada",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.2308,15.7835 ]
+    },
+    "properties": {
+    "description":"EDUCATION QUALITY AND SECONDARY EDUCATION",
+    "country":"Guatemala",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6966,9.9456 ]
+    },
+    "properties": {
+    "description":"GUINEA: EDUCATION FOR ALL - ADDITIONAL FINANCING",
+    "country":"Guinea",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6966,9.9456 ]
+    },
+    "properties": {
+    "description":"Education For All-Fast Track Initiative Program",
+    "country":"Guinea",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2419,15.2 ]
+    },
+    "properties": {
+    "description":"Piloting New Forms of Community-Administered",
+    "country":"Honduras",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2975,18.1096 ]
+    },
+    "properties": {
+    "description":"JM - REFORM OF SECONDARY EDUCATION PROJECT II",
+    "country":"Jamaica",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4295,6.4281 ]
+    },
+    "properties": {
+    "description":"Global Partnership for Education Grant for Basic Education Project",
+    "country":"Liberia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9962,17.5707 ]
+    },
+    "properties": {
+    "description":"Education Sector Investment Program II - Scaling up",
+    "country":"Mali",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9962,17.5707 ]
+    },
+    "properties": {
+    "description":"Education Sector Investment Program II",
+    "country":"Mali",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9962,17.5707 ]
+    },
+    "properties": {
+    "description":"Education Sector Expenditure Program",
+    "country":"Mali",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"Second Programmatic Upper Secondary Education Development Policy Loan",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"School Based Management (APL II)",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"Upper Secondary Education (MUSE) Development Policy Loan",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"MX (APL I) Tertiary Educ Student Ass",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"Mexico Education Quality",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"MX  Basic Education Dev Phase III",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "description":"Basic Education Development Phase II",
+    "country":"Mexico",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0926,31.7917 ]
+    },
+    "properties": {
+    "description":"First Education Development Policy Loan",
+    "country":"Morocco",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0926,31.7917 ]
+    },
+    "properties": {
+    "description":"Morocco Basic Education Reform Support Program",
+    "country":"Morocco",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2072,12.8654 ]
+    },
+    "properties": {
+    "description":"NICARAGUA - EDUCATION PROJECT",
+    "country":"Nicaragua",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7821,8.538 ]
+    },
+    "properties": {
+    "description":"Development Policy Loan",
+    "country":"Panama",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7821,8.538 ]
+    },
+    "properties": {
+    "description":"Basic Education Quality Improvement Project",
+    "country":"Panama",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7821,8.538 ]
+    },
+    "properties": {
+    "description":"Basic Education -Additional Financing",
+    "country":"Panama",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7821,8.538 ]
+    },
+    "properties": {
+    "description":"Basic Education Project (02)",
+    "country":"Panama",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.4524,14.4974 ]
+    },
+    "properties": {
+    "description":"Quality Education for All Project - Phase 2",
+    "country":"Senegal",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.7799,8.4606 ]
+    },
+    "properties": {
+    "description":"Sierra Leone EFA FTI Program",
+    "country":"Sierra Leone",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.7799,8.4606 ]
+    },
+    "properties": {
+    "description":"Rehabilitation of Basic Education",
+    "country":"Sierra Leone",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.783,17.3578 ]
+    },
+    "properties": {
+    "description":"ST. KITTS & NEVIS EDUCATION DEVELOPMENT PROJECT",
+    "country":"St. Kitts and Nevis",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.9789,13.9094 ]
+    },
+    "properties": {
+    "description":"ST. LUCIA Education Development Project",
+    "country":"St. Lucia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2872,12.9843 ]
+    },
+    "properties": {
+    "description":"St. Vincent and the Grenadines: OECS Education Development Project",
+    "country":"St. Vincent and the Grenadines",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.6167,-38.4161 ]
+    },
+    "properties": {
+    "description":"Argentina Rural Education Improvement Project - PROMER",
+    "country":"Argentina",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.6167,-38.4161 ]
+    },
+    "properties": {
+    "description":"Second Secondary Education Project - Province of Buenos Aires",
+    "country":"Argentina",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.5887,-16.2902 ]
+    },
+    "properties": {
+    "description":"BO-Secondary Education Transformation",
+    "country":"Bolivia",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "description":"Expanding Opportunities, Enhancing Equity in the State of Pernambuco Development Policy Loan",
+    "country":"Brazil",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "description":"Piaui Green Growth and Inclusion DPL",
+    "country":"Brazil",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "description":"Rio State Fiscal Sustainability, Human Development and Competitiveness DPL",
+    "country":"Brazil",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "description":"PERNAMBUCO INTEGRATED DEVELOPMENT:  EDUCATION QUALITY IMPROVEMENT PROJECT",
+    "country":"Brazil",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "description":"Bahia Education Project (APL) - Second Phase",
+    "country":"Brazil",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "description":"Bahia Education Project",
+    "country":"Brazil",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.1834,-1.8312 ]
+    },
+    "properties": {
+    "description":"EC-Inclusion and Quality Education",
+    "country":"Ecuador",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.4438,-23.4425 ]
+    },
+    "properties": {
+    "description":"PY - EDUCATION REFORM PROJECT",
+    "country":"Paraguay",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0152,-9.19 ]
+    },
+    "properties": {
+    "description":"Rural Education Project",
+    "country":"Peru",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.1982,-21.179 ]
+    },
+    "properties": {
+    "description":"Tonga Education Support Project",
+    "country":"Tonga",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.7658,-32.5228 ]
+    },
+    "properties": {
+    "description":"2nd. Programmatic Public Sector, Competitiveness and Social Inclusion Development Policy Loan with Drawdown Option",
+    "country":"Uruguay",
+    "FIELD5":""
+    }
+  }
+]
+}

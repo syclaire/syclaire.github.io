@@ -11,36 +11,48 @@
         #map { position:absolute; top:0; bottom:0; width:100%; }
 	
 		
+		
     </style>
 </head>
 <body>
 <style>
-.mapboxgl-popup {
-max-width: 2000px;
-font: 10px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-}
+	
+	.map-sidebar1 {
+	            position: absolute;
+	            left: 15px;
+	            top: 15px;
+	            width: 25%;
+				background-color:  rgba(255, 255, 255, 0.8);
+				font: 10px/15px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	            padding: 10px;
+				overflow: auto;
+				border-radius: 3px;
+				margin: 0 0 10px;
+				box-shadow:0 1px 2px rgba(0,0,0,0.20);
+				z-index: 1;
+	        }
+			
+	.map-sidebar2 {
+				position: absolute;
+				left: 15px;
+				bottom: 15px;
+				width: 45%;
+				image-size: 50%;
+				background: 0;
+				overflow: auto;
+				font: 10px 'Arial';
+			}
+			
+			
+	.mapboxgl-popup {
+	max-width: 400px;
+	font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	position: absolute;
+	
+	}
+		
 
-.map-overlay-container {
-position: absolute;
-width: 25%;
-top: 0;
-left: 0;
-padding: 10px;
-z-index: 1;
-}
 
-.map-overlay {
-font: 10px/15px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-background-color: #fff;
-border-radius: 3px;
-padding: 10px;
-box-shadow:0 1px 2px rgba(0,0,0,0.20);
-}
- 
-.map-overlay h2,
-.map-overlay p {
-margin: 0 0 10px;
-}
 
 </style>
 
@@ -48,10 +60,20 @@ margin: 0 0 10px;
 <div id='map'></div>
 
  
-<div class='map-overlay-container'>
-<div class='map-overlay'>
-<h2 id='location-title'>Tanzania Secondary Education Status</h2>
-<p id='location-description'>...</p>
+<div class='map-sidebar1'>
+<h2 id='location-title'>THE WORLD BANK<br>Secondary Education Development Project</h2>
+<h2>Country: Tanzania</h2>
+<p id='location-description'>From 2005 to 2014, World Bank initiated three projects regarding Secondary Education Development in Tanzania.<br> Compare the objectives and the results of each project.</p>
+<p><strong>2007, Zanzibar Basic Education Improvement Project</strong><br>
+	<strong>2010, Secondary Educ. Development Program II</strong><br>
+	<strong>2014, TZ Education Program for Results (EPforR)</strong></P>
+<p>source: http://projects.worldbank.org/<p>
+</div>
+
+<div class='map-sidebar2'>
+        <div id="tooltip-name"></div>
+        <div id='tooltip'></div>
+    </div>
 
 </div>
 
@@ -60,8 +82,8 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoic3ljbGFpcmUiLCJhIjoiY2p1YWxzbGo3MDBmMDN6cXJ4d
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/dark-v10',
-    center: [34.8, -6.39],
-    zoom: 2.5
+    center: [33.8, -10.39],
+    zoom: 3.7
 });
 
 map.on('load', function() {
@@ -71,9 +93,9 @@ map.on('load', function() {
         type: "geojson",
         // Point to GeoJSON data. This example visualizes all M1.0+ earthquakes
         // from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
-        data: "convertcsv_3.geojson",
+        data: "dataviz_final_1.geojson",
         cluster: true,
-        clusterMaxZoom: 4, // Max zoom to cluster points on
+        clusterMaxZoom: 5, // Max zoom to cluster points on
         clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
     });
 		
@@ -92,18 +114,20 @@ map.on('load', function() {
                 "step",
                 ["get", "point_count"],
                 "#51bbd6",
-                5,
+                2,
                 "#f1f075",
-                20,
-                "#f28cb1"
+                3,
+                "#ff4040",
+				4,
+				"#7576f1"
             ],
             "circle-radius": [
                 "step",
                 ["get", "point_count"],
                 20,
-                100,
+                5,
                 30,
-                750,
+                10,
                 40
             ]
         }
@@ -127,12 +151,14 @@ map.on('load', function() {
         source: "countries",
         filter: ["!", ["has", "point_count"]],
         paint: {
-            "circle-color": "#11b4da",
+            "circle-color": "#ff0000",
             "circle-radius": 4,
             "circle-stroke-width": 1,
             "circle-stroke-color": "#fff"
         }
     });
+	
+	
 
 	
     // inspect a cluster on click
@@ -170,8 +196,8 @@ map.on('load', function() {
     map.getCanvas().style.cursor = 'pointer';
     
 
-    var coordinates = d.features[0].geometry.coordinates.slice();
-    var description = d.features[0].properties.description;
+    var feature = d.features[0]
+	
  
     // Ensure that if the map is zoomed out such that multiple
     // copies of the feature are visible, the popup appears
@@ -182,10 +208,15 @@ map.on('load', function() {
  
     // Populate the popup and set its coordinates
     // based on the feature found.
-    popup.setLngLat(coordinates)
-    .setHTML(description)
+	
+	
+    popup.setLngLat(feature.geometry.coordinates)
+    .setHTML(feature.properties.description + feature.properties.description1) 
+		//+ feature.properties.image)
     .addTo(map);
     });
+	
+	
  
     map.on('mouseleave', 'unclustered-point', function() {
     map.getCanvas().style.cursor = '';
@@ -193,6 +224,25 @@ map.on('load', function() {
     });
  
 });
+
+map.on('click', function (f) {
+           var features = map.queryRenderedFeatures(f.point, {
+               layers: ['unclustered-point']
+           });
+		   map.getSource('countries')
+
+           if (features.length) {
+               //show name and value in sidebar
+               document.getElementById('tooltip-name').innerHTML = features[0].properties.State; //imageinfo
+               document.getElementById('tooltip').innerHTML = features[0].properties.image;
+               //for troubleshooting - show complete features info
+               //document.getElementById('tooltip').innerHTML = JSON.stringify(features, null, 2);
+           } else {
+               //if not hovering over a feature set tooltip to empty
+               document.getElementById('tooltip-name').innerHTML = "";
+               document.getElementById('tooltip').innerHTML = "";
+           }
+       });
 </script>
 
 </body>
